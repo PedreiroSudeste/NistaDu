@@ -1,0 +1,44 @@
+.head{
+    position: absolute;
+    left: 5px;
+    top: 0px;
+    width: 365px;
+    height: 74px;
+    border-radius: 25px;
+    background: #d3d3d3;
+    background-blend-mode: normal;
+}
+body{
+      background-color: black;
+}
+.img{
+    position: absolute;
+    left: 5px;
+    top: 87px;
+    width: 150px;
+    height: 150px;
+    border-radius: 25px;
+    background: #d3d3d3;
+    background-blend-mode: normal;
+}
+.about{
+    position: absolute;
+    left: 160px;
+    top: 87px;
+    width: 210px;
+    height: 150px;
+    border-radius: 25px;
+    background: #d3d3d3;
+    background-blend-mode: normal;
+}
+.text{
+    position: absolute;
+    left: 5px;
+    top: 252px;
+    width: 365px;
+    height: 415px;
+    border-radius: 25px;
+    background: #d3d3d3;
+    background-blend-mode: normal;
+  }
+  
